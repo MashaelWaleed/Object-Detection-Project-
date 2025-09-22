@@ -1,4 +1,13 @@
 # Object-Detection-Project-
+-constants
+-config_entity
+-artifact_entity
+-components
+-pipeline
+-app.py
+
+
+## workflows
 
 ## How to run:
 
@@ -13,5 +22,8 @@ conda activate signlang
 ```bash 
  pip install -r requirements.txt 
 ```
+
+
+
 
 
